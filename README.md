@@ -1,1 +1,2 @@
 # color-spaces
+Random walk through color space. Python isn't ideal for this. I'm going to rewrite a similar program in JavaScript so it can display in browser and edit HSV value without a bunch of kludged together tricks
