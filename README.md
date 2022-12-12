@@ -1,2 +1,2 @@
 # color-spaces
-Random walk through color space. Python isn't ideal for this. I'm going to rewrite a similar program in JavaScript so it can display in browser and edit HSV value without a bunch of kludged together tricks
+An exercise in generative artwork. Does a random walk through 2d space as well as a subset of color space (the subset is restricted to hue). Python isn't ideal for this as it has no clean way to hand HSV but I was able to kluge something together. Wrote it as a jupyter notebook for ease of prototyping. Rewrote the same program in JavaScript with P5.js as an effort to further familiarize myself with P5.js at [color-spaces-js](https://github.com/candiceevemiller/color-spaces-js) but there's something wrong with the random number generation.
